@@ -1,8 +1,8 @@
 site_name: geoyons
 
-site_url: https://geoyons.github.io
+site_url: 
 
-repo_url: https://geoyons.github.io
+repo_url: 
 
 theme:
     palette:
