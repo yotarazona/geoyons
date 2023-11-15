@@ -1,4 +1,4 @@
-# **Peer-reviewed Publication**
+# **Peer-reviewed publications**
 
 **Tarazona, Y**., Nowosad, J., Benitez-Paez, F., Drenkhan, F., Timaná, M. (2023). scikit-eo: A Python
 package for Remote Sensing Data Analysis. *Journal of Open Source Software*, under review.

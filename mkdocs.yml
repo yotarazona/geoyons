@@ -1,10 +1,17 @@
-site_name: geoyons
+site_name: Yonatan Tarazona Coronel
+site_author: Yonatan T.
+
+# Copyright
+copyright: Copyright &copy; 2023 Yonatan Tarazona
 
 site_url: https://geoyons.github.io
 
 theme:
+    font:
+        text: Roboto
     palette:
-        - scheme: default
+        - primary: black
+        #- scheme: default # color por defecto
           #   primary: blue
           #   accent: indigo
           toggle:
@@ -21,14 +28,20 @@ theme:
         repo: fontawesome/brands/github
     icon:
         repo: fontawesome/brands/github
-    logo: images/logo.png
+    #logo: images/logo.png
     favicon: assets/favicon.png
+    icon:
+        logo: logo
+    
     features:
-        - navigation.instant
-        - navigation.tracking
+        - navigation.sections
+        - navigation.tabs # horizontal tabs
         - navigation.top
+        - navigation.tracking
         - search.highlight
         - search.share
+        - search.suggest
+        - toc.integrate
     custom_dir: "docs/overrides"
 
 #theme: readthedocs
@@ -58,7 +71,8 @@ markdown_extensions:
 
 nav:
     - About me: index.md
-    - Research: phd.md
+    - Projects: projects.md
     - Publications: publications.md
     - Awards: awards.md
+    - Blogs: blogs.md
     - Contact: contact.md
