@@ -3,9 +3,9 @@
 
 ## **01: Research**
 
-[Investigating the Atmospheric Impact of Disturbances in Land Cover: A Study of Precipitation and Temperature Changes in post-fire landscapes](#01)
+[Investigating the Atmospheric Impact of Disturbances in Land Cover: A Study of Precipitation and Temperature Changes in post-fire landscapes](#01) (PhD project)
 
-[Remotely sensed variables for land change analysis: opportunities for Land Use and Land Cover mapping](#02)
+[Remotely sensed variables for land change analysis: opportunities for Land Use and Land Cover mapping](#02) (paper ongoing)
 
 ## **02: Open-source software development**
 
@@ -15,9 +15,9 @@
 
 [ForesToolsRS (R Package): Remote Sensing Tools for Forest Monitoring](#05)
 
-## <a name = "01"></a>**Investigating the Atmospheric Impact of Disturbances in Land Cover: A Study of Precipitation and Temperature Changes in post-fire landscapes**
+## <a name = "01"></a>**Investigating the Atmospheric Impact of Disturbances in Land Cover: A Study of Precipitation and Temperature Changes in post-fire landscapes** (PhD project)
 
-**Supervisors**: Vasco Mantas (UC/CITEUC) / Courtney Schumacher (Texas A&M University)
+**Supervisors**: [Vasco M. Mantas](http://www.linkedin.com/in/vascomantas) (UC/CITEUC) / Courtney Schumacher (Texas A&M University)
 
 ### Abstract
 The PhD research will address for the first time the impacts of post-fire events and the dynamics of Land Cover and Land Use Changes (LCLUC) on regional temperature and precipitation patterns by combining several remotely sensed data such as Landsat/Sentinel-2 and Sentinel-1, GMP and SMAP, ground-truth, and artificial intelligence algorithms for a comprehensive analysis of the feedback and interaction processes between surface and atmosphere. The findings of these interactions, atmosphere and land cover, will enable a new understanding of post-fire landscapes and contribute to an informed post-disaster recovery process.
@@ -51,7 +51,7 @@ In this project, we will design an innovative framework to characterize and quan
 - [11] ICNF, 10 º Relatório provisório de incêndios florestais, 2017, Accessed June 2023 at https://www.icnf.pt/api/file/doc/2c45facee8d3e4f8.
 - [12] Shen, Z., Yong., B. Downscaling the GPM-based satellite precipitation retrievals using gradient boosting decision tree approach over Mainland China. Journal of Hydrology, 602, 2021, 126803.
 
-## <a name = "02"></a>**Remotely sensed variables for land change analysis: opportunities for Land Use and Land Cover mapping**
+## <a name = "02"></a>**Remotely sensed variables for land change analysis: opportunities for Land Use and Land Cover mapping** (paper ongoing)
 
 ### Introduction
 
