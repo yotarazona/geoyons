@@ -17,7 +17,7 @@
 
 ## <a name = "01"></a>**Investigating the Atmospheric Impact of Disturbances in Land Cover: A Study of Precipitation and Temperature Changes in post-fire landscapes** (PhD project)
 
-**Supervisors**: [Vasco M. Mantas](http://www.linkedin.com/in/vascomantas) (UC/CITEUC) / Courtney Schumacher (Texas A&M University)
+**Supervisors**: [Vasco M. Mantas](http://www.linkedin.com/in/vascomantas) (UC/CITEUC) / [Courtney Schumacher](https://scholar.google.com/citations?user=_n7c6w0AAAAJ&hl=en) (Texas A&M University)
 
 ### Abstract
 The PhD research will address for the first time the impacts of post-fire events and the dynamics of Land Cover and Land Use Changes (LCLUC) on regional temperature and precipitation patterns by combining several remotely sensed data such as Landsat/Sentinel-2 and Sentinel-1, GMP and SMAP, ground-truth, and artificial intelligence algorithms for a comprehensive analysis of the feedback and interaction processes between surface and atmosphere. The findings of these interactions, atmosphere and land cover, will enable a new understanding of post-fire landscapes and contribute to an informed post-disaster recovery process.
